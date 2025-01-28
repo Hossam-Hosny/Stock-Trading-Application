@@ -1,0 +1,17 @@
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\Repositories\bin\Debug\net8.0\Entities.dll
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\Repositories\bin\Debug\net8.0\RepositoryContracts.dll
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\Repositories\bin\Debug\net8.0\RepositoryContracts.pdb
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\Repositories\bin\Debug\net8.0\Entities.pdb
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\Repositories\obj\Debug\net8.0\ref\Repositories.dll

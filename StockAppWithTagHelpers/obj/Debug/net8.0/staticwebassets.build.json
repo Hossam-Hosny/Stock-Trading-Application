@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "8xdfNivKWzjH2g5tXdmgt6So0dhMpwqP0afCnyVzu1I=",
+  "Source": "StockAppWithTagHelpers",
+  "BasePath": "_content/StockAppWithTagHelpers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StockAppWithTagHelpers\\wwwroot",
+      "Source": "StockAppWithTagHelpers",
+      "ContentRoot": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\wwwroot\\",
+      "BasePath": "_content/StockAppWithTagHelpers",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "SourceId": "StockAppWithTagHelpers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\wwwroot\\",
+      "BasePath": "_content/StockAppWithTagHelpers",
+      "RelativePath": "Rotativa/wkhtmltopdf.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Identity": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\wwwroot\\Scripts\\FinnhubScript.js",
+      "SourceId": "StockAppWithTagHelpers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\wwwroot\\",
+      "BasePath": "_content/StockAppWithTagHelpers",
+      "RelativePath": "Scripts/FinnhubScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Identity": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\wwwroot\\StyleSheet.css",
+      "SourceId": "StockAppWithTagHelpers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\wwwroot\\",
+      "BasePath": "_content/StockAppWithTagHelpers",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

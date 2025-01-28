@@ -1,0 +1,736 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19512973-E954-40DA-A187-75C2995F4064}|XUnitTest\\XUnitTest.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\xunittest\\servicetest\\stocksservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19512973-E954-40DA-A187-75C2995F4064}|XUnitTest\\XUnitTest.csproj|solutionrelative:xunittest\\servicetest\\stocksservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\servicecontracts\\dto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\servicecontracts\\dto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830B5B12-20CA-4F27-B2C3-812596153FE7}|Entities\\Entities.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\entities\\buyorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830B5B12-20CA-4F27-B2C3-812596153FE7}|Entities\\Entities.csproj|solutionrelative:entities\\buyorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19512973-E954-40DA-A187-75C2995F4064}|XUnitTest\\XUnitTest.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\xunittest\\controllertests\\stockscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19512973-E954-40DA-A187-75C2995F4064}|XUnitTest\\XUnitTest.csproj|solutionrelative:xunittest\\controllertests\\stockscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\stockappwithtaghelpers\\views\\stocks\\explore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|solutionrelative:stockappwithtaghelpers\\views\\stocks\\explore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C459313-C300-4913-90CD-12F341CC6033}|Repositories\\Repositories.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\repositories\\finnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C459313-C300-4913-90CD-12F341CC6033}|Repositories\\Repositories.csproj|solutionrelative:repositories\\finnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4FCA68-0B15-41AB-97FC-FB5EC5CE54FD}|Services\\Services.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4FCA68-0B15-41AB-97FC-FB5EC5CE54FD}|Services\\Services.csproj|solutionrelative:services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\stockappwithtaghelpers\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|solutionrelative:stockappwithtaghelpers\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\stockappwithtaghelpers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|solutionrelative:stockappwithtaghelpers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\stockappwithtaghelpers\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|solutionrelative:stockappwithtaghelpers\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\stockappwithtaghelpers\\viewcomponents\\selectedstockviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|solutionrelative:stockappwithtaghelpers\\viewcomponents\\selectedstockviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\stockappwithtaghelpers\\views\\shared\\components\\selectedstock\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|solutionrelative:stockappwithtaghelpers\\views\\shared\\components\\selectedstock\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\stockappwithtaghelpers\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|solutionrelative:stockappwithtaghelpers\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\stockappwithtaghelpers\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|solutionrelative:stockappwithtaghelpers\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\stockappwithtaghelpers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|solutionrelative:stockappwithtaghelpers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\servicecontracts\\helpers\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\helpers\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\stockappwithtaghelpers\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|solutionrelative:stockappwithtaghelpers\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\stockappwithtaghelpers\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|solutionrelative:stockappwithtaghelpers\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\stockappwithtaghelpers\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|solutionrelative:stockappwithtaghelpers\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4FCA68-0B15-41AB-97FC-FB5EC5CE54FD}|Services\\Services.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\services\\stocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4FCA68-0B15-41AB-97FC-FB5EC5CE54FD}|Services\\Services.csproj|solutionrelative:services\\stocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\servicecontracts\\interface\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\interface\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C459313-C300-4913-90CD-12F341CC6033}|Repositories\\Repositories.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\repositories\\stocksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C459313-C300-4913-90CD-12F341CC6033}|Repositories\\Repositories.csproj|solutionrelative:repositories\\stocksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC596FC0-C832-4F4D-919A-A57CF4620819}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\repositorycontracts\\ifinnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC596FC0-C832-4F4D-919A-A57CF4620819}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\ifinnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC596FC0-C832-4F4D-919A-A57CF4620819}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\repositorycontracts\\istocksrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC596FC0-C832-4F4D-919A-A57CF4620819}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\istocksrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\stockappwithtaghelpers\\views\\trade\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|solutionrelative:stockappwithtaghelpers\\views\\trade\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\stockappwithtaghelpers\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|solutionrelative:stockappwithtaghelpers\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\servicecontracts\\dto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\servicecontracts\\dto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\servicecontracts\\dto\\iorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\iorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\servicecontracts\\interface\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\interface\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\stockappwithtaghelpers\\views\\trade\\orderspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|solutionrelative:stockappwithtaghelpers\\views\\trade\\orderspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StockAppWithEntityFrameWorkDatabase/True/SqlTable/dbo.BuyOrders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\servicecontracts\\customvalidation\\datetimevalidatiion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\customvalidation\\datetimevalidatiion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\servicecontracts\\customvalidation\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C15FA16-64E5-493A-A23F-DA7F7CD2CF7B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\customvalidation\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830B5B12-20CA-4F27-B2C3-812596153FE7}|Entities\\Entities.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\entities\\stockmarketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830B5B12-20CA-4F27-B2C3-812596153FE7}|Entities\\Entities.csproj|solutionrelative:entities\\stockmarketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\stockappwithtaghelpers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|solutionrelative:stockappwithtaghelpers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830B5B12-20CA-4F27-B2C3-812596153FE7}|Entities\\Entities.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{830B5B12-20CA-4F27-B2C3-812596153FE7}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\stockappwithtaghelpers\\wwwroot\\scripts\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5F060CC0-DBD2-434B-8AB3-8209441A98A4}|StockAppWithTagHelpers\\StockAppWithTagHelpers.csproj|solutionrelative:stockappwithtaghelpers\\wwwroot\\scripts\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\java\\AppData\\Roaming\\Microsoft\\UserSecrets\\d4d2de41-2601-4980-ba17-e122f9e06eb7\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830B5B12-20CA-4F27-B2C3-812596153FE7}|Entities\\Entities.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\entities\\sellorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830B5B12-20CA-4F27-B2C3-812596153FE7}|Entities\\Entities.csproj|solutionrelative:entities\\sellorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830B5B12-20CA-4F27-B2C3-812596153FE7}|Entities\\Entities.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 19\\assignment\\stockappwithmoq\\stockappwithtaghelperssolution\\entities\\migrations\\20250120220606_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830B5B12-20CA-4F27-B2C3-812596153FE7}|Entities\\Entities.csproj|solutionrelative:entities\\migrations\\20250120220606_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "STocksServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\XUnitTest\\ServiceTest\\STocksServiceTest.cs",
+              "RelativeDocumentMoniker": "XUnitTest\\ServiceTest\\STocksServiceTest.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\XUnitTest\\ServiceTest\\STocksServiceTest.cs",
+              "RelativeToolTip": "XUnitTest\\ServiceTest\\STocksServiceTest.cs",
+              "ViewState": "AgIAAOQBAAAAAAAAAAAmwPQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:02:04.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuyOrder.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Entities\\BuyOrder.cs",
+              "RelativeDocumentMoniker": "Entities\\BuyOrder.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Entities\\BuyOrder.cs",
+              "RelativeToolTip": "Entities\\BuyOrder.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:13:41.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuyOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vxcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:24:57.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuyOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwBYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:38:48.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Explore.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Views\\Stocks\\Explore.cshtml",
+              "RelativeDocumentMoniker": "StockAppWithTagHelpers\\Views\\Stocks\\Explore.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Views\\Stocks\\Explore.cshtml",
+              "RelativeToolTip": "StockAppWithTagHelpers\\Views\\Stocks\\Explore.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T20:11:26.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StocksControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\XUnitTest\\ControllerTests\\StocksControllerTest.cs",
+              "RelativeDocumentMoniker": "XUnitTest\\ControllerTests\\StocksControllerTest.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\XUnitTest\\ControllerTests\\StocksControllerTest.cs",
+              "RelativeToolTip": "XUnitTest\\ControllerTests\\StocksControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:16:35.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Services\\FinnhubService.cs",
+              "RelativeDocumentMoniker": "Services\\FinnhubService.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Services\\FinnhubService.cs",
+              "RelativeToolTip": "Services\\FinnhubService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAD4vyQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:14:59.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "StockAppWithTagHelpers\\Controllers\\StocksController.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "StockAppWithTagHelpers\\Controllers\\StocksController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwBsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:58:01.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FinnhubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Repositories\\FinnhubRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FinnhubRepository.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Repositories\\FinnhubRepository.cs",
+              "RelativeToolTip": "Repositories\\FinnhubRepository.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAFAAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:01:54.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "RelativeDocumentMoniker": "StockAppWithTagHelpers\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "RelativeToolTip": "StockAppWithTagHelpers\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T20:18:45.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TradeController.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Controllers\\TradeController.cs",
+              "RelativeDocumentMoniker": "StockAppWithTagHelpers\\Controllers\\TradeController.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Controllers\\TradeController.cs",
+              "RelativeToolTip": "StockAppWithTagHelpers\\Controllers\\TradeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwCEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:06:23.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Program.cs",
+              "RelativeDocumentMoniker": "StockAppWithTagHelpers\\Program.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Program.cs",
+              "RelativeToolTip": "StockAppWithTagHelpers\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:10:36.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TradingOptions.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\Helpers\\TradingOptions.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Helpers\\TradingOptions.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\Helpers\\TradingOptions.cs",
+              "RelativeToolTip": "ServiceContracts\\Helpers\\TradingOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:11:25.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SelectedStockViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\ViewComponents\\SelectedStockViewComponent.cs",
+              "RelativeDocumentMoniker": "StockAppWithTagHelpers\\ViewComponents\\SelectedStockViewComponent.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\ViewComponents\\SelectedStockViewComponent.cs",
+              "RelativeToolTip": "StockAppWithTagHelpers\\ViewComponents\\SelectedStockViewComponent.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:23:33.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StockAppWithTagHelpers\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StockAppWithTagHelpers\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T13:33:05.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StockAppWithTagHelpers\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StockAppWithTagHelpers\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T13:32:29.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StockTrade.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Models\\StockTrade.cs",
+              "RelativeDocumentMoniker": "StockAppWithTagHelpers\\Models\\StockTrade.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Models\\StockTrade.cs",
+              "RelativeToolTip": "StockAppWithTagHelpers\\Models\\StockTrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:05:19.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StockAppWithTagHelpers\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StockAppWithTagHelpers\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T13:32:10.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "StockAppWithTagHelpers\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Models\\Orders.cs",
+              "RelativeToolTip": "StockAppWithTagHelpers\\Models\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:02:28.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "StockAppWithTagHelpers\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Models\\Stock.cs",
+              "RelativeToolTip": "StockAppWithTagHelpers\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:47:22.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StocksService.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Services\\StocksService.cs",
+              "RelativeDocumentMoniker": "Services\\StocksService.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Services\\StocksService.cs",
+              "RelativeToolTip": "Services\\StocksService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:13:43.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IFinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\Interface\\IFinnhubService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Interface\\IFinnhubService.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\Interface\\IFinnhubService.cs",
+              "RelativeToolTip": "ServiceContracts\\Interface\\IFinnhubService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:58:53.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StocksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Repositories\\StocksRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\StocksRepository.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Repositories\\StocksRepository.cs",
+              "RelativeToolTip": "Repositories\\StocksRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:26:39.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IFinnhubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\RepositoryContracts\\IFinnhubRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\IFinnhubRepository.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\RepositoryContracts\\IFinnhubRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\IFinnhubRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:02:18.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IStocksRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\RepositoryContracts\\IStocksRepositories.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\IStocksRepositories.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\RepositoryContracts\\IStocksRepositories.cs",
+              "RelativeToolTip": "RepositoryContracts\\IStocksRepositories.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA6wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:08:47.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SellOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:51:43.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Views\\Trade\\Index.cshtml",
+              "RelativeDocumentMoniker": "StockAppWithTagHelpers\\Views\\Trade\\Index.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Views\\Trade\\Index.cshtml",
+              "RelativeToolTip": "StockAppWithTagHelpers\\Views\\Trade\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T23:07:50.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Views\\Trade\\Orders.cshtml",
+              "RelativeDocumentMoniker": "StockAppWithTagHelpers\\Views\\Trade\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Views\\Trade\\Orders.cshtml",
+              "RelativeToolTip": "StockAppWithTagHelpers\\Views\\Trade\\Orders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T23:08:11.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SellOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:37:44.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\DTO\\IOrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\IOrderResponse.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\DTO\\IOrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\IOrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:29:29.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IStockService.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\Interface\\IStockService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Interface\\IStockService.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\Interface\\IStockService.cs",
+              "RelativeToolTip": "ServiceContracts\\Interface\\IStockService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:00:38.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrdersPDF.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Views\\Trade\\OrdersPDF.cshtml",
+              "RelativeDocumentMoniker": "StockAppWithTagHelpers\\Views\\Trade\\OrdersPDF.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\Views\\Trade\\OrdersPDF.cshtml",
+              "RelativeToolTip": "StockAppWithTagHelpers\\Views\\Trade\\OrdersPDF.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwB0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T22:28:11.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DateTimeValidatiion.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\CustomValidation\\DateTimeValidatiion.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\CustomValidation\\DateTimeValidatiion.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\CustomValidation\\DateTimeValidatiion.cs",
+              "RelativeToolTip": "ServiceContracts\\CustomValidation\\DateTimeValidatiion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:29:19.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "dbo.BuyOrders.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StockAppWithEntityFrameWorkDatabase/True/SqlTable/dbo.BuyOrders.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StockAppWithEntityFrameWorkDatabase/True/SqlTable/dbo.BuyOrders.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-20T22:25:32.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\CustomValidation\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\CustomValidation\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\ServiceContracts\\CustomValidation\\ValidationHelper.cs",
+              "RelativeToolTip": "ServiceContracts\\CustomValidation\\ValidationHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:16:01.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250120220606_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Entities\\Migrations\\20250120220606_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20250120220606_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Entities\\Migrations\\20250120220606_InitialMigration.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20250120220606_InitialMigration.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:06:06.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StockMarketDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Entities\\StockMarketDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\StockMarketDbContext.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Entities\\StockMarketDbContext.cs",
+              "RelativeToolTip": "Entities\\StockMarketDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwBwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:53:58.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\appsettings.json",
+              "RelativeDocumentMoniker": "StockAppWithTagHelpers\\appsettings.json",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\appsettings.json",
+              "RelativeToolTip": "StockAppWithTagHelpers\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T22:12:14.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Entities\\Entities.csproj",
+              "RelativeToolTip": "Entities\\Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T21:52:10.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FinnhubScript.js",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\wwwroot\\Scripts\\FinnhubScript.js",
+              "RelativeDocumentMoniker": "StockAppWithTagHelpers\\wwwroot\\Scripts\\FinnhubScript.js",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\StockAppWithTagHelpers\\wwwroot\\Scripts\\FinnhubScript.js",
+              "RelativeToolTip": "StockAppWithTagHelpers\\wwwroot\\Scripts\\FinnhubScript.js",
+              "ViewState": "AgIAAB0AAAAAAAAAAIBZwDoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-15T00:02:25.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\java\\AppData\\Roaming\\Microsoft\\UserSecrets\\d4d2de41-2601-4980-ba17-e122f9e06eb7\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\d4d2de41-2601-4980-ba17-e122f9e06eb7\\secrets.json",
+              "ToolTip": "C:\\Users\\java\\AppData\\Roaming\\Microsoft\\UserSecrets\\d4d2de41-2601-4980-ba17-e122f9e06eb7\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\d4d2de41-2601-4980-ba17-e122f9e06eb7\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T23:36:42.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SellOrder.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Entities\\SellOrder.cs",
+              "RelativeDocumentMoniker": "Entities\\SellOrder.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 19\\Assignment\\StockAppWithMoq\\StockAppWithTagHelpersSolution\\Entities\\SellOrder.cs",
+              "RelativeToolTip": "Entities\\SellOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:19:55.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

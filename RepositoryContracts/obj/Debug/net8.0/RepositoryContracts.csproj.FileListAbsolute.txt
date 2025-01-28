@@ -1,0 +1,15 @@
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\RepositoryContracts\bin\Debug\net8.0\RepositoryContracts.deps.json
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\RepositoryContracts\bin\Debug\net8.0\RepositoryContracts.dll
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\RepositoryContracts\bin\Debug\net8.0\RepositoryContracts.pdb
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\RepositoryContracts\bin\Debug\net8.0\Entities.dll
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\RepositoryContracts\bin\Debug\net8.0\Entities.pdb
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.csproj.AssemblyReference.cache
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.AssemblyInfoInputs.cache
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.AssemblyInfo.cs
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.csproj.CoreCompileInputs.cache
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\RepositoryContracts\obj\Debug\net8.0\Reposito.28D4BA81.Up2Date
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.dll
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\RepositoryContracts\obj\Debug\net8.0\refint\RepositoryContracts.dll
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.pdb
+C:\Users\java\Desktop\Harsha Barsha\Section 19\Assignment\StockAppWithMoq\StockAppWithTagHelpersSolution\RepositoryContracts\obj\Debug\net8.0\ref\RepositoryContracts.dll
