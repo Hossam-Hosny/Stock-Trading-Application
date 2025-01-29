@@ -10,10 +10,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.Configure<TradingOptions>(builder.Configuration.GetSection("TradingOptions"));
 
-builder.Services.AddScoped(typeof(IFinnhubService), typeof(FinnhubService));
-builder.Services.AddScoped(typeof(IStockService), typeof(StocksService));
-builder.Services.AddScoped(typeof(IFinnhubRepository), typeof(FinnhubRepository));
-builder.Services.AddScoped(typeof(IStocksRepositories), typeof(StocksRepository));
+builder.Services.AddTransient(typeof(IFinnhubService), typeof(FinnhubService));
+builder.Services.AddTransient(typeof(IStockService), typeof(StocksService));
+builder.Services.AddTransient(typeof(IFinnhubRepository), typeof(FinnhubRepository));
+builder.Services.AddTransient(typeof(IStocksRepositories), typeof(StocksRepository));
 
 builder.Services.AddHttpClient();
 
